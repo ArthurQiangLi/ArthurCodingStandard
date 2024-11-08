@@ -1,6 +1,8 @@
-# Work_CodingStandard
+# "Finding the right way to code"
 
-My Coding Standard for fast and concise code writing.
+## Work_CodingStandard
+
+This is my `Coding Standard` for fast and concise code writing.
 
 ## ToDo in this project
 
